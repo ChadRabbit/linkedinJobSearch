@@ -1,3 +1,4 @@
+
 # 🚀 LinkedIn Job Automation System
 
 ### A smart job scraping and filtering system that automates LinkedIn job search and delivers only relevant opportunities directly to Telegram.
@@ -14,6 +15,10 @@ This project solves that by:
 - Ranking jobs based on relevance (role, company, location)
 - Filtering out low-quality or irrelevant roles
 - Sending top jobs directly to Telegram
+
+https://github.com/user-attachments/assets/058ef61e-df6f-4448-86d8-dc3b974e6923
+
+
 
 ---
 
